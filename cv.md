@@ -27,7 +27,7 @@ web applications development.
 - Vscode, WebStorm 
 
 ## Code Examples 
-**GitHub** - [*Tigraranaar*](github.com/Tigraranaar)
+**GitHub** - github.com/tigraranaar
   
 ## Experience
 *Mar 2015 - Feb 2017*
