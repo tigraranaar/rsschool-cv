@@ -1,16 +1,15 @@
-1.
 # Tigran Arakyan
 
-2.
+## Contacts 
 - tigran.arakyan@gmail.com
 - tgm: @tigraranaar
  Yerevan, Armenia
 
-3.
+## Summary
 I am a web developer(content manager, html-css markup specialist, frontend developer) with 4 years experience. I primarily focus on writting clean, elegant, and efficient code. I am proficient in HTML, CSS and Javascript. During two years, I have primarily worked for companies that speciallize in e-learning systems and
 web applications development. 
   
-4.
+## Skills
 - HTML5, CSS3
 
 - Basic Javascript (ES5, ES2015), jQuery
@@ -27,10 +26,10 @@ web applications development.
 
 - Vscode, WebStorm 
 
-5. 
+## Code Examples 
 **GitHub** - *github.com/Tigraranaar*
   
-6.
+## Experience
 *Mar 2015 - Feb 2017*
 **"E-Learning Systems Developer" in Competentum**
 
@@ -50,9 +49,9 @@ web applications development.
 - Developing production ready, cross browser and frontend development.
 - Developing landing pages and web applications using modern technologies (CSS3 Animations, Ajax, Bootstrap 4, Flex, Grids etc.)
 
-7. 
+## Education
 "Applied mathematics and computer science", Udmurt State University, Izhevsk, Russia
 
-8. 
+## English
 I have taken a course in "Lingua City" Language Centre at the B1 Level.
 My goal is to learn English to level B2-C1.
